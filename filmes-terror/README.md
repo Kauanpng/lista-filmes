@@ -1,5 +1,7 @@
-# Livro de receitas :man_cook:
+# Filmes de terror :ghost:
 
-​	Meu livro de receitas
+### Meu top 3 filmes de terror
 
-- Strogonoff de frango
+- O iluminado
+- trilogia Invocação do mal
+- Um lugar silencioso

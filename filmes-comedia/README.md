@@ -1,5 +1,7 @@
-# Livro de receitas :man_cook:
+# Filmes de comédia :laughing:
 
-​	Meu livro de receitas
+#### Meu top 3 filmes de comédia
 
-- Strogonoff de frango
+- Trilogia DeadPool
+- O ditador
+- Trova tropical
